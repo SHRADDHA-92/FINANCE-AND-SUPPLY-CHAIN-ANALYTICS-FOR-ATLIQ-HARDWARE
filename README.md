@@ -36,3 +36,6 @@ The objective was to:
 # 🔗 Explore My Work
 
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" width="40" /></a> To view my Canva presentaion file _[click here](https://shorturl.at/kFpbA)_
+
+  <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" width="40" /></a> To view my LinkedIn post engagement _[click here](https://www.linkedin.com/feed/
+)_
