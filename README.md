@@ -38,15 +38,5 @@ The objective was to:
 - <a href="YOUR_CANVA_LINK_HERE" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=5rXWhjFJdXr0&format=png&color=000000" width="35" /> View Canva Presentation</a>  
 - <a href="YOUR_LINKEDIN_POST_LINK_HERE" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=1oPZDC1WwCyr&format=png&color=000000" width="35" /> View LinkedIn Post Engagement</a>  
 
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" width="40" /></a> To view my Canva presentaion file _[click here](https://shorturl.at/kFpbA)_
-
-    <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" width="40" /></a> To view my LinkedIn post engagement _[click here](https://www.linkedin.com/posts/sree-vignesh-05-_dataanalyst-sql-mysql-activity-7240269076835581953-4DeI?utm_source=share&utm_medium=member_desktop
-)_
-
-  #
-
-  <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" width="40" /></a> To view my Canva presentaion file _[click here](https://www.canva.com/design/DAG5hgLWm6U/kYSb6q72PCpUu_m3a5UQ1w/view?utm_content=DAG5hgLWm6U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hed24330489)_
-
-    <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" width="40" /></a> To view my LinkedIn post engagement _[click here](https://www.linkedin.com/posts/sree-vignesh-05-_dataanalyst-sql-mysql-activity-7240269076835581953-4DeI?utm_source=share&utm_medium=member_desktop
 )_
   
