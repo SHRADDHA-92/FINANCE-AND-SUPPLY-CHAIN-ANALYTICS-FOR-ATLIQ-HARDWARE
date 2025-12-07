@@ -35,9 +35,4 @@ The objective was to:
 
 # 🔗 Explore My Work
 
-- <a href="YOUR_CANVA_LINK_HERE" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=5rXWhjFJdXr0&format=png&color=000000" width="35" /> View Canva Presentation</a>  
-- <a href="YOUR_LINKEDIN_POST_LINK_HERE" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=1oPZDC1WwCyr&format=png&color=000000" width="35" /> View LinkedIn Post Engagement</a>  
-
-- <a href="YOUR_CANVA_LINK_HERE" target="_blank">
-  <img align="center" src="https://img.icons8.com/color/48/000000/canva.png" width="35" /> View Canva Presentation
-  </a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" width="40" /></a> To view my Canva presentaion file _[click here](https://shorturl.at/kFpbA)_
